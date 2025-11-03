@@ -101,7 +101,7 @@ function Home() {
 
             
             <a
-              href="/SrivardhanResume.pdf"  // <-- place your Resume PDF in the public folder
+              href="/SRIVARDHAN_RESUME.pdf"  // <-- place your Resume PDF in the public folder
               className="btn btn-primary mt-3 px-4 py-2"
               target="_blank"
               rel="noopener noreferrer"
