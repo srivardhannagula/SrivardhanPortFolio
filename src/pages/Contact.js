@@ -231,7 +231,7 @@
 
 
 import React from "react";
-import { FaLinkedin, FaGithub, FaEnvelope } from "react-icons/fa";
+import { FaLinkedin, FaGithub } from "react-icons/fa";
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 function ContactForm() {
